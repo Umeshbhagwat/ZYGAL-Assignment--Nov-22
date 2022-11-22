@@ -1,0 +1,25 @@
+.one{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+.two{
+
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.three{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+.four{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+.firstwrap{
+    display: flex;
+}
